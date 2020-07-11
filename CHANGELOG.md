@@ -4,7 +4,7 @@
 
 ### Features
 
-- Dropped support of older Node.js versions. Officially supports Node.js version 8 and above.
+- Supporting `Deno 1.1.3` and above!.
 
 - Removed exported `Operators` object. Use instead operators on the root.
 
