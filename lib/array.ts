@@ -1,5 +1,4 @@
 'use strict';
-import { bgBlue, red, bold, yellow } from "https://deno.land/std/fmt/colors.ts";
 
 import * as field from "./field.ts";
 import { Operator } from "./operator.ts";

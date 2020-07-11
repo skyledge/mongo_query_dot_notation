@@ -1,4 +1,4 @@
-import * as $ from '../index.ts';
+import * as $ from '../mod.ts';
 import { prefixSuffixMessage, assertEquals } from "../deps-dev.ts";
 
 
