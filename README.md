@@ -1,6 +1,6 @@
-mongo-dot-notation
+mongo_query_dot_notation
 ========
-Fast, lightweight library to transform objects to mongo update instructions using operators.
+Fast, lightweight library to transform objects to mongo update instructions using operators and dot notation.
 
 Heavily inspired by [npm::Mongo Dot Notation](https://www.npmjs.com/package/mongo-dot-notation/).
 
